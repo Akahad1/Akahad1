@@ -11,7 +11,11 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind / JavaScripts /  React / 
 
 ###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akahad1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraful-karim-saad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ak.sahad.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://genuine-bavarois-cc1e32.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Akahad1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ashraful-karim-saad/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/ak.sahad.5)
+[![Website](https://img.shields.io/badge/Portfolio-000?logo=icloud&logoColor=white&style=for-the-badge)](https://genuine-bavarois-cc1e32.netlify.app)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akahad1)](https://github.com/ryo-ma/github-profile-trophy)
 
